@@ -1,1 +1,0 @@
-console.log('헬로월드')
